@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and smiple.
 add merge.
 Friends is my favorite sitcom.
+Sourcetree is a free git GUI.
